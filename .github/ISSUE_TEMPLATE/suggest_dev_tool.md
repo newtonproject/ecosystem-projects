@@ -1,6 +1,6 @@
 ---
 name: Suggest a developer tool
-about: Anything a developer can use when building with Ethereum
+about: Anything a developer can use when building with NewChain
 title: ""
 labels: "feature :sparkles:, content :fountain_pen:"
 assignees: ""
